@@ -4,11 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/mysite/blog/admin.py" line="6" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d21033c-cd72-4f13-86f8-f174a543c0c7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/blog/templates/blog/post_list.html" afterPath="$PROJECT_DIR$/mysite/blog/templates/blog/post_list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/blog/views.py" afterPath="$PROJECT_DIR$/mysite/blog/views.py" />
-    </list>
+    <list default="true" id="6d21033c-cd72-4f13-86f8-f174a543c0c7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
